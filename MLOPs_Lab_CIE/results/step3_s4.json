@@ -1,0 +1,17 @@
+{
+  "health_endpoint": "/status",
+  "predict_endpoint": "/forecast",
+  "port": 8080,
+  "health_response": {
+    "status": "running",
+    "model": "RandomForestRegressor",
+    "version": "1.0"
+  },
+  "test_input": {
+    "artist_reputation_score": 6.9,
+    "artwork_age_years": 128,
+    "medium_type_index": 2,
+    "exhibition_count": 8
+  },
+  "prediction": 61.98985575468976
+}

@@ -1,0 +1,15 @@
+{
+  "search_type": "grid",
+  "n_folds": 5,
+  "total_trials": 27,
+  "best_params": {
+    "max_depth": 5,
+    "min_samples_split": 5,
+    "n_estimators": 250
+  },
+  "best_mae": 16.50470345772007,
+  "best_cv_mae": 16.50470345772007,
+  "parent_run_name": "tuning-gallerypulse",
+  "parent_run_id": "5c3fdd852b8345c08d572e58edd71111",
+  "register_model_uri": "models:/m-6fcccccb5c0448b6bd572ea21241c66f"
+}

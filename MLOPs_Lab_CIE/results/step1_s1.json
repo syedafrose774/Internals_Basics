@@ -1,0 +1,22 @@
+{
+  "experiment_name": "gallerypulse-auction-price-lakhs",
+  "models": [
+    {
+      "name": "LinearRegression",
+      "mae": 8.518050786437135,
+      "rmse": 9.248823041410985,
+      "r2": 0.33722474566247174,
+      "mape": 20.719547023330076
+    },
+    {
+      "name": "Ridge",
+      "mae": 8.268795399656744,
+      "rmse": 9.051914396062987,
+      "r2": 0.365145472478865,
+      "mape": 20.029808798538877
+    }
+  ],
+  "best_model": "Ridge",
+  "best_metric_name": "mae",
+  "best_metric_value": 8.268795399656744
+}

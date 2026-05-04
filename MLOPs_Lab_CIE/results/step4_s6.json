@@ -1,0 +1,7 @@
+{
+  "registered_model_name": "gallerypulse-auction-price-lakhs-predictor",
+  "version": 7,
+  "run_id": "5c3fdd852b8345c08d572e58edd71111",
+  "source_metric": "mae",
+  "source_metric_value": 16.50470345772007
+}
